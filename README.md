@@ -1,6 +1,6 @@
-# Gulp-Three-Starter
+# Gulp-Shader-Starter
 
-This Gulp Starter was made to quickly access the three.js goodness without the struggle of setting everything up
+A simple gulp starter to play around with the Three.js ShaderMaterial
 
 ## Installation
 
